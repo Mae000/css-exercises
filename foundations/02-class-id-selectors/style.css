@@ -3,6 +3,18 @@
     font-family: Verdana, 'DejaVu Sans', 'sans-serif'
 }
 
-.color {
+.sizea {
+    font-size: 24px;
+}
+
+#bkg {
+    background-color: lightgreen; 
+    font-weight: bold; 
+
+}
+
+#blus
+{
     color: #0000ff80;
+    font-size: 36px; 
 }
